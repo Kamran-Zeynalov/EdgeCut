@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EdgeCut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a08b044fcca6de5320ac5666b81bf24ef4b8a643")]
 [assembly: System.Reflection.AssemblyProductAttribute("EdgeCut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EdgeCut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

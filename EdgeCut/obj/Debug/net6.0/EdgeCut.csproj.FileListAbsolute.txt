@@ -28,3 +28,4 @@ C:\Users\kzeyn\source\repos\EdgeCut\EdgeCut\obj\Debug\net6.0\refint\EdgeCut.dll
 C:\Users\kzeyn\source\repos\EdgeCut\EdgeCut\obj\Debug\net6.0\EdgeCut.pdb
 C:\Users\kzeyn\source\repos\EdgeCut\EdgeCut\obj\Debug\net6.0\EdgeCut.genruntimeconfig.cache
 C:\Users\kzeyn\source\repos\EdgeCut\EdgeCut\obj\Debug\net6.0\ref\EdgeCut.dll
+C:\Users\kzeyn\source\repos\EdgeCut\EdgeCut\obj\Debug\net6.0\EdgeCut.sourcelink.json
