@@ -5,6 +5,122 @@
       "PackagePath": "staticwebassets\\EdgeCut.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.eot"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.svg",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.svg"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.woff",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfontba72.woff"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\WhatsApp Image 2024-06-14 at 19.15.51_88f8d77e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\WhatsApp Image 2024-06-14 at 19.15.51_88f8d77e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\img\\find_user.png",
+      "PackagePath": "staticwebassets\\assets\\img\\find_user.png"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\js\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\assets\\js\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\assets\\js\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\morris\\raphael-2.1.0.min.js"
+    },
+    {
       "Id": "C:\\Users\\kzeyn\\source\\repos\\EdgeCut\\EdgeCut\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
