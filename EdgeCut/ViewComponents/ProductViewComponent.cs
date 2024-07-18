@@ -1,33 +1,20 @@
-﻿using EdgeCut.Entities;
+﻿using EdgeCut.DAL;
+using EdgeCut.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Query.Internal;
 
 namespace EdgeCut.ViewComponents
 {
     public class ProductViewComponent : ViewComponent
     {
+        private EdgeDbContext _context { get; set; }
+        public ProductViewComponent(EdgeDbContext context)
+        {
+            _context = context;
+        }
         public IViewComponentResult Invoke()
         {
-            List<Product> products = new()
-            {
-               new Product {
-                Name = "Brown",
-                Price = 200,
-                Url = "f1.png"
-                },
-                new Product{
-                  Name = "Red",
-                Price = 200,
-                Url = "f1.png"
-                },
-                new Product
-                {
-                    Name = "Blue",
-                    Price = 200,
-                    Url = "f1.png"
-                },
-
-
-                };
+            List<Product> products = _context.Products.ToList();
             return View(products);
         }
     }
